@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch-saty" alt="ch-saty" /></a> </p>
 
-- 💬 Ask me about **How to roll**
+- 💬 Ask me about **Make me this application**
 
 - 📫 How to reach me **satyamchoudhary8183@gmail.com**
 
