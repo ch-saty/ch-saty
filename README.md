@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyam Choudhary</h1>
-<h3 align="center">A passionate web developer and competitive coder from India</h3>
+<h3 align="center">A passionate developer and competitive coder from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ch-saty&label=Profile%20views&color=0e75b6&style=flat" alt="ch-saty" /> </p>
 
